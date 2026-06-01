@@ -32,4 +32,4 @@ The only older version and other mod loader planned support is for **1.21.1 NeoF
 A huge thanks to all the mod creators who made this possible. You can find the specific mod list and links to their respective pages by checking any release in the Versions tab.
 
 **Thank you for downloading and supporting Simplifium!**
-By the way if you have any suggestions you can find me in the [Modrinth server](https://discord.gg/modrinth), my Discord username is Stolki521.
+By the way if you have any suggestions go to the Discussions section here at GitHub and create a discussion with the Ideas category.
