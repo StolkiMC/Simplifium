@@ -1,4 +1,4 @@
-All Rights Reserved 2026, StolkiMC
+Copyright 2026, StolkiMC
 
 Redistribution without modification is not permitted.
 
