@@ -1,5 +1,5 @@
 # What is Simplifium?
-Simplifium is a lightweight optimization modpack designed to significantly boost performance using a list of only **22 mods**.
+Simplifium is a lightweight optimization modpack designed to significantly boost performance using a list of only **25 mods**.
 
 The name is a blend of "Simplify" and the "-um" suffix, following the naming convention of many popular optimization mods (like Sodium or Lithium). True to its name, Simplifium avoids bloat and keeps the experience as close to vanilla as possible. While most of the mods focus on performance (settings can be found under Video Settings), a few others add essential quality-of-life features.
 
@@ -23,7 +23,7 @@ This mod **only uses client-side mods**, which means when you have the modpack i
 You can use this modpack as a base and add **any shaderpack, resourcepack, datapack, world**, (everything mentioned before can be installed in-game) **or Fabric mod** you want.
 
 ### Lightweight
-This modpack can do everything mentioned before using just **22 mods** (very little compared to other optimization modpacks).
+This modpack can do everything mentioned before using just **25 mods** (very little compared to other optimization modpacks).
 
 ## Older versions and NeoForge support
 The only older version and other mod loader planned support is for **1.21.1 NeoForge**, the version-mod loader with the most mods.
